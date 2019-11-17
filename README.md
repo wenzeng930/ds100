@@ -1,4 +1,3 @@
-# ds100
-Principles and Techniques of Data Science
+# ds100 Principles and Techniques of Data Science
 
-## hw1
+# hw1
